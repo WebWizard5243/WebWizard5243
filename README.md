@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hi, I'm Md Kaif Nawaz Khurram  <br>## Full-Stack Developer | AI & Web Enthusiast<br><br>Welcome to my GitHub! I'm a passionate developer building modern web apps, exploring AI-powered solutions, and solving real-world problems through code.<br><br>---<br><br>### 🚀 About Me<br><br>- 🎓 3rd Year Computer Science student and self-taught developer  <br>- 💡 I build full-stack projects using **JavaScript, TypeScript, Node.js, EJS, and more**  <br>- 🤖 Interested in AI, automation, and career tech  <br>- 🌱 Continuously learning backend systems and scalable app architecture<br>
+# 👋 Hi, I'm Md Kaif Nawaz Khurram  <br> Full-Stack Developer | AI & Web Enthusiast<br><br>Welcome to my GitHub! I'm a passionate developer building modern web apps, exploring AI-powered solutions, and solving real-world problems through code.<br><br>---<br><br>🚀 About Me<br><br>- 🎓 3rd Year Computer Science student and self-taught developer  <br>- 💡 I build full-stack projects using **JavaScript, TypeScript, Node.js, EJS, and more**  <br>- 🤖 Interested in AI, automation, and career tech  <br>- 🌱 Continuously learning backend systems and scalable app architecture<br>
 
 
 ## 🌐 Socials:
